@@ -2,7 +2,7 @@
 # Distracted Driver Detection
 
 ### Problem Definition:
-Given Statefarm dataset of 2D dashboard car images , this kaggle challenge gives task of classifying each driver's behavior. These are some examples:
+Given Statefarm dataset of 2D dashboard car images , this kaggle challenge gives task of classifying each driver's behavior. Some examples:
 <img src="ex/img1.jpg" width="200"> <img src="ex/img2.jpg" width="200"> <img src="ex/img3.jpg" width="200">
 
 The images are labeled following a set of 10 categories:
