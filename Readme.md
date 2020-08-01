@@ -3,6 +3,9 @@
 
 ### Problem Definition:
 Given Statefarm dataset of 2D dashboard car images , this kaggle challenge gives task of classifying each driver's behavior.
+
+
+### Examples:
 <img src="examples/img1.jpg" width="200"> <img src="examples/img2.jpg" width="200"> <img src="examples/img3.jpg" width="200">
 
 The images are labeled following a set of 10 categories:
