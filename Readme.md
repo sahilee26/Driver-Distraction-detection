@@ -23,7 +23,7 @@ The images are labeled following a set of 10 categories:
 | `c9` | Talking to passenger(s). |
 
 # Brief 
-I used keras for importing VGG model and then added extra layers(4 dense layers and 2 dropout and Average Pooling)   on top that I trained using the dataset
+I used keras for importing VGG model and then added extra layers(4 dense, 2 dropout and Average Pooling) on top of network that I trained using the dataset.
 
 ### Dependencies
 
