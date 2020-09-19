@@ -22,6 +22,9 @@ The images are labeled following a set of 10 categories:
 | `c8` | Hair and makeup. |
 | `c9` | Talking to passenger(s). |
 
+# Brief 
+I used keras for importing VGG model and then added extra layers(4 dense layers and 2 dropout and Average Pooling)   on top that I trained using the dataset
+
 ### Dependencies
 
 * `Python 3.6.1`
